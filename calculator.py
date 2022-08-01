@@ -13,4 +13,6 @@ def divide(a,b):
 def reminder(a,b):
     return a//b
 
-#tnwjd
+def average(a,b):
+    return (a+b)/2
+
