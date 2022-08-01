@@ -12,3 +12,5 @@ def divide(a,b):
 
 def reminder(a,b):
     return a//b
+
+#tnwjd
